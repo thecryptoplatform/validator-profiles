@@ -12,7 +12,7 @@ Tendermint-based chains validator.
 
 ## Team
 
-Support the Terra Classic community. All of our commission will support on chain development
+Supporting the Terra Classic community. All of our commission will support on chain development
 
 ## Contact Us
 
